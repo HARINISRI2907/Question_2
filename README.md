@@ -3,9 +3,7 @@
 Welcome to **FocusPro**, a clean and modern landing page built to promote a productivity tool that helps users organize tasks, stay focused, and get more done.
 
 🌐 Live Demo
-
-👉 [View Live on GitHub Pages](https://HARINISRI2907.github.io/Question_2/)  
-*(Replace with your actual GitHub Pages link)*
+👉 (https://HARINISRI2907.github.io/Question_2/)  
 
 📋 Project Overview
 
@@ -21,9 +19,6 @@ This project is a responsive, accessible landing page that promotes **FocusPro**
 - **HTML5**
 - **CSS3**
 - (No JavaScript used — can be enhanced later)
-
-
- 📁 Folder Structure
 
 📌 Features
 
